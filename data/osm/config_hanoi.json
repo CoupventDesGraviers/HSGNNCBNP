@@ -1,0 +1,18 @@
+{
+  "map_file": "hanoi.osm",
+	"graph_file": "map_hanoi.json",
+	"area": {
+				"min_lat": 21.0246,
+				"max_lat": 21.0412,
+				"min_lon": 105.8331,
+				"max_lon": 105.8667
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

@@ -1,0 +1,18 @@
+{
+  "map_file": "burundi.osm",
+	"graph_file": "map_burundi.json",
+	"area": {
+				"min_lat": -3.5413,
+				"max_lat": -3.4706,
+				"min_lon": 30.0276,
+				"max_lon": 30.1624
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "service", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

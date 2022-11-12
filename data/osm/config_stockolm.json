@@ -1,0 +1,18 @@
+{
+  "map_file": "stockolm.osm",
+	"graph_file": "map_stockolm.json",
+	"area": {
+				"min_lat": 59.3055,
+				"max_lat": 59.3248,
+				"min_lon": 18.0392,
+				"max_lon": 18.1066
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

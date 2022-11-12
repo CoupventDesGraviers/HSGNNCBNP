@@ -1,0 +1,18 @@
+{
+  "map_file": "boston.osm",
+	"graph_file": "map_boston.json",
+	"area": {
+				"min_lat": 42.3557,
+				"max_lat": 42.3688,
+				"min_lon": -71.0771,
+				"max_lon": -71.0435
+		  },
+	"__road_types": ["primary", "secondary", "tertiary", "residential", "service", "track", "unclassified"],
+	"road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

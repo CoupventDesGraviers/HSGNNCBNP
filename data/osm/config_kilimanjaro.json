@@ -1,0 +1,18 @@
+{
+  "map_file": "kilimanjaro.osm",
+	"graph_file": "map_kilimanjaro.json",
+	"area": {
+				"min_lat": -3.2486,
+				"max_lat": -3.2309,
+				"min_lon": 37.2827,
+				"max_lon": 37.3164
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "service", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

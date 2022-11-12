@@ -1,0 +1,22 @@
+{
+  "map_file": "angers.osm",
+	"graph_file": "map_angers.json",
+	"area": {
+				"min_lat": 47.46826,
+				"max_lat": 47.47424,
+				"min_lon": -0.55964,
+				"max_lon": -0.54279
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "service", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"max_mission_time": 2500,
+	"nb_observations": 3,
+	"nb_forced_wp": 2,
+	"nb_waypoints": 8,
+	"verbose": 1,
+	"plot": 1,
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

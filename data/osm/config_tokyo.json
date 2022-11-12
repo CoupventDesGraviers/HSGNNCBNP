@@ -1,0 +1,18 @@
+{
+  "map_file": "tokyo.osm",
+	"graph_file": "map_tokyo.json",
+	"area": {
+				"min_lat": 35.67229,
+				"max_lat": 35.67948,
+				"min_lon": 139.77362,
+				"max_lon": 139.79047
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "service", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

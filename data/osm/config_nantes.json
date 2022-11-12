@@ -1,0 +1,18 @@
+{
+  "map_file": "nantes.osm",
+	"graph_file": "map_nantes.json",
+	"area": {
+				"min_lat": 47.20954,
+				"max_lat": 47.21555,
+				"min_lon": -1.57677,
+				"max_lon": -1.55993
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "service", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

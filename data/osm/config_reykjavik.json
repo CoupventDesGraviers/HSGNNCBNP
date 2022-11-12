@@ -1,0 +1,18 @@
+{
+  "map_file": "reykjavik.osm",
+	"graph_file": "map_reykjavik.json",
+	"area": {
+				"min_lat": 64.0542,
+				"max_lat": 64.0696,
+				"min_lon": -21.9901,
+				"max_lon": -21.9227
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

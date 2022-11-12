@@ -1,0 +1,18 @@
+{
+  "map_file": "edinburgh.osm",
+	"graph_file": "map_edinburgh.json",
+	"area": {
+				"min_lat": 55.9410,
+				"max_lat": 55.9509,
+				"min_lon": -3.2063,
+				"max_lon": -3.1726
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "service", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

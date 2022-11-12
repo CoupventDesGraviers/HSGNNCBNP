@@ -1,0 +1,18 @@
+{
+  "map_file": "edmonton.osm",
+	"graph_file": "map_edmonton.json",
+	"area": {
+				"min_lat": 53.5390,
+				"max_lat": 53.5503,
+				"min_lon": -113.4951,
+				"max_lon": -113.4614
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "service", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

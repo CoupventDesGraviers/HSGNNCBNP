@@ -1,0 +1,18 @@
+{
+  "map_file": "oslo.osm",
+	"graph_file": "map_oslo.json",
+	"area": {
+				"min_lat": 59.9091,
+				"max_lat": 59.9179,
+				"min_lon": 10.7275,
+				"max_lon": 10.7612
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "service", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

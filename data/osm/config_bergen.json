@@ -1,0 +1,18 @@
+{
+  "map_file": "bergen.osm",
+	"graph_file": "map_bergen.json",
+	"area": {
+				"min_lat": 60.3847,
+				"max_lat": 60.3935,
+				"min_lon": 5.3112,
+				"max_lon": 5.3449
+		  },
+	"__road_types": ["primary", "secondary", "tertiary", "residential", "service", "track", "unclassified"],
+	"road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

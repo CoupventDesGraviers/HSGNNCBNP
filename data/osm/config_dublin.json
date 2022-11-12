@@ -1,0 +1,18 @@
+{
+  "map_file": "dublin.osm",
+	"graph_file": "map_dublin.json",
+	"area": {
+				"min_lat": 53.3430,
+				"max_lat": 53.3536,
+				"min_lon": -6.2810,
+				"max_lon": -6.2474
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 
+ 

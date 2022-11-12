@@ -1,0 +1,18 @@
+{
+  "map_file": "seattle.osm",
+	"graph_file": "map_seattle.json",
+	"area": {
+				"min_lat": 47.6066,
+				"max_lat": 47.6193,
+				"min_lon": -122.3604,
+				"max_lon": -122.3267
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

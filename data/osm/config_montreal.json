@@ -1,0 +1,18 @@
+{
+  "map_file": "montreal.osm",
+	"graph_file": "map_montreal.json",
+	"area": {
+				"min_lat": 45.4933,
+				"max_lat": 45.5057,
+				"min_lon": -73.5846,
+				"max_lon": -73.5510
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

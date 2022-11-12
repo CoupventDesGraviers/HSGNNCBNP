@@ -1,0 +1,18 @@
+{
+  "map_file": "moshi.osm",
+	"graph_file": "map_moshi.json",
+	"area": {
+				"min_lat": -3.35679,
+				"max_lat": -3.34796,
+				"min_lon": 37.34656,
+				"max_lon": 37.36341
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "service", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

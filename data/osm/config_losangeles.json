@@ -1,0 +1,18 @@
+{
+  "map_file": "losangeles.osm",
+	"graph_file": "map_losangeles.json",
+	"area": {
+				"min_lat": 34.0358,
+				"max_lat": 34.0505,
+				"min_lon": -118.2525,
+				"max_lon": -118.2188
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 

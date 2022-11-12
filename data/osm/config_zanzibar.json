@@ -1,0 +1,18 @@
+{
+  "map_file": "zanzibar.osm",
+	"graph_file": "map_zanzibar.json",
+	"area": {
+				"min_lat": -5.87924,
+				"max_lat": -5.86983,
+				"min_lon": 39.28043,
+				"max_lon": 39.29727
+		  },
+	"road_types": ["primary", "secondary", "tertiary", "residential", "service", "track", "unclassified"],
+	"__road_types": ["primary", "residential"],
+	"skipped_types": ["motorway", "elevator", "steps"],
+	"plot": 1,
+	"verbose": 1,	
+	"plot_dir": "plots/",
+	"edges_colors": ["blue", "cyan", "teal", "grey", "gold", "green", "lightgreen"]
+}		
+ 
